@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["👋 Welcoming New Scientists 👋", "🙁 Dismissing Retiring Scientists 🙁"];
+const statusMessages = ["👋 Welcoming New Scientists 👋", "🙁 Dismissing Retiring Scientists 🙁", "📈 Growing Server Popularity 📈"];
 
 
 let currentIndex = 0;
